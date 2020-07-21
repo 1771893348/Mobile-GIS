@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/com.github.mikephil.charts.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/com.github.mikephil.charts.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
